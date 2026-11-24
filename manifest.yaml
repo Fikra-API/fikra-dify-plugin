@@ -8,7 +8,7 @@ description:
   en_US: DeepSeek, Qwen, Kimi, GLM, Gemini, Seed and MiMo models through one OpenAI-compatible key, billed in USD or KES (M-Pesa).
 icon: icon.png
 tags:
-  - llm
+  - other
 resource:
   memory: 268435456
   permission:
